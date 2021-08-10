@@ -1,9 +1,7 @@
 """
-Project for Week 4 of "Python Data Analysis".
+
 Processing CSV files with baseball stastics.
 
-Be sure to read the project description page for further information
-about the expected behavior of the program.
 """
 
 import csv
